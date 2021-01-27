@@ -54,7 +54,7 @@ class MyProfile extends StatelessWidget {
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
                     child: Image.asset(
-                      "assets/images/001.JPG",
+                      "assets/images/001.jpg",
                       height: 280.0,
                     ),
                   ),
